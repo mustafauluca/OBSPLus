@@ -1,0 +1,6 @@
+{
+  "name": "DiplomaTR - OBS & E-Öğrenme Akademisi",
+  "description": "Entegre Öğrenci Bilgi Sistemi (OBS), E-Öğrenme, Harç ve Kredi Hesaplama, Öğrenci Kartı ve Diploma Oluşturucu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
